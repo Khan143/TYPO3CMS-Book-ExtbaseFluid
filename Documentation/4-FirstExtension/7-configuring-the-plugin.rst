@@ -88,7 +88,7 @@ For a full-grown extension there are some ingedients missing:
 
 * The user of the web site should be interact with the data by different modes (edit, create, sort and so on).
 
-* Input from the web sie user has to check (validate) for consistence.
+* Input from the web site user has to check (validate) for consistence.
 
 The sample extension we show from chapter 5 on, is significant multifaceted.
 
